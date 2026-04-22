@@ -24,7 +24,9 @@
 ---
 
 ## 🚀 Featured Projects
-(Coming Soon...)
+- 🚗 Car Damage Assessment AI  
+- 🐾 Animal Sound Recognition (Computer Vision)  
+- 🎤 Real-Time Voice Chatbot  
 
 ---
 
